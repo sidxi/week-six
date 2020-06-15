@@ -16,6 +16,7 @@
 * Initially searching for: New York City (initial idea: sonification piece with paris is burning slipped in)
   * URLS non-sequential, nightmare - yes I pulled all the URLS I wanted :(
   * Wget took forever, and also I just got a bunch of random stuff that didn’t actually correspond to what was in my search? I'm giving up on this idea (for now?)
+    * I was unable to upload the massive folder of stuff it pulled - it you want to see it, let me know and I'll send it your way somehow
 *	Decided to move to a MUCH smaller collection; I really rapidly realized a lot of the stuff I wanted to do I would need to spend at _least_ a month on (at least, even just on the small things I wanted to do!) to properly clean it and analyze it
   *	Chose: [BWBB collection (1992-1993)](https://www.digitaltransgenderarchive.net/catalog?f%5Bcollection_name_ssim%5D%5B%5D=Boys+Will+Be+Boys+&page=1) 
   * I pulled the PDFs, and initially was planning on using OCR to clean them up & pull the text (which I did for the first one)

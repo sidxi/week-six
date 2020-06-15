@@ -1,3 +1,16 @@
+# Quick links
+* [Resources that helped me this week](#Resources-that-helped-me-this-week)
+* [My (thought) process](#My-(thought)-process)
+* [Questions I asked](#Questions-I-asked)
+
+# Resources that helped me this week
+* https://craftingdh.netlify.app/week/6/instructions/
+* http://historyinthecity.blogspot.com/2013/11/before-i-start-i-want-to-thank-people.html
+* https://craftingdh.netlify.app/week/2/ocr/
+* https://craftingdh.netlify.app/week/4/voyant/
+* https://craftingdh.netlify.app/week/5/sound/
+
+
 # My (thought) process
 * Immediate thought: I want to do the [trans archives](https://www.digitaltransgenderarchive.net/)
 * Initially searching for: New York City (initial idea: sonification piece with paris is burning slipped in)

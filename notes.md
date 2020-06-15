@@ -26,9 +26,10 @@
         *	When I was first transitioning, the space I went to was YouTube to find a community. A really big staple when I was using this space was the “voice on T comparison” videos. I pulled a few videos that were personally meaningful to me (had watched in the past), & some that just worked, and layered some of those voice moments on audacity
         * Videos I chose:
           * [Alex Bertie - TRANSGENDER: 2 YEARS ON TESTOSTERONE](https://www.youtube.com/watch?v=tb3b-mKxZm8)
-          * [Chella Man - ONE YEAR ON TESTOSTERONE: Voice Updates]
+          * [Chella Man - ONE YEAR ON TESTOSTERONE: Voice Updates](https://www.youtube.com/watch?v=PsjBGqTjWu4)
           * [CallmeLaddie - TWO YEARS ON TESTOSTERONE!! FtM Transition (Voice Comparison)](https://www.youtube.com/watch?v=Wu9D-K24Iaw)
-        *	I wanted to layer the start & stop dates of those journeys
+          * [Skylar Kergil - FTM Transition: 4.5 years on Testosterone comparison!](https://www.youtube.com/watch?v=4Bk_AP_5y-0&t=186s)
+        *	I wanted to layer the start & stop dates of those journeys to aurally show time passing differently for different people, just like I felt in the BWBB newsletters
 *	Note: I could only have done this because I was working on such a small scale – I feel like I have been working to capture a “moment” in history
 
 # Questions I asked

@@ -29,7 +29,7 @@ Ultimately, I separated my data into the following themes:
 * Sexuality words (ex: gay, bisexual, lesbian)
 * Locations (ex: Sydney, Melbourne, Newcastle)
 
-I used Voyant to identify and quantify these themes, and then worked to turn them into a format that would work well for a sonification. While I initially tried giving each theme its own column, the sound was very uneven and, I felt, did not accurately communicate how my data showed how the themes all emerged within the same texts - just at different points. Ultimately, I kept all of my themes on the same track (aka, in the same column), and allowed for the music's intermittent raising of pitch to introduct the each new theme. I also kept the most prominent year that each word/word cluster emerged, to illustrate their place within linear time. 
+I used Voyant to identify and quantify these themes, and then worked to turn them into a format that would work well for a sonification. After consulting the data previously used in [TwoTone](https://app.twotone.io/), I used Excel to format my data. While I initially tried giving each theme its own column, the sound was very uneven and, I felt, did not accurately communicate how my data showed how the themes all emerged within the same texts - just at different points. Ultimately, I kept all of my themes on the same track (aka, in the same column), and allowed for the music's intermittent raising of pitch to introduct the each new theme. I also kept the most prominent year that each word/word cluster emerged, to illustrate their place within linear time. 
 
 So, I had my sonification. Here it is before I put it into Audacity:
 

@@ -1,5 +1,5 @@
 # My (thought) process
-* Immediate thought: I want to do the trans archives
+* Immediate thought: I want to do the [trans archives](https://www.digitaltransgenderarchive.net/)
 * Initially searching for: New York City (initial idea: sonification piece with paris is burning slipped in)
   * URLS non-sequential, not manually c/ping over 300 urls
   * Tried to do it with the search 

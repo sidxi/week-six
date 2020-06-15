@@ -1,6 +1,6 @@
 # Quick links
 * [Resources that helped me this week](#Resources-that-helped-me-this-week)
-* [My (thought) process](#My-(thought)-process)
+* [My process](#My-process)
 * [Questions I asked](#Questions-I-asked)
 
 # Resources that helped me this week
@@ -11,7 +11,7 @@
 * https://craftingdh.netlify.app/week/5/sound/
 
 
-# My (thought) process
+# My process
 * Immediate thought: I want to do the [trans archives](https://www.digitaltransgenderarchive.net/)
 * Initially searching for: New York City (initial idea: sonification piece with paris is burning slipped in)
   * URLS non-sequential, not manually c/ping over 300 urls

@@ -9,7 +9,7 @@
   * I pulled the PDFs, and initially was planning on using OCR to clean them up & pull the text (which I did for the first one)
   *	While doing this: I realized that I should be naming my images something other than “output”
   
-insert image here
+![renaming realization](https://github.com/sidxi/week-six/blob/master/Screenshots/Week6%20renaming%20realization.PNG)
   
   *	THEN I REALIZED! They’re PDFs babeyyy – I can c/p the text in a way that will make them easier to clean up after!
   * Then I converted them from scans into text files and cleaned them up (only able to do this within my week long timeframe because I was working with a small amount of documents)
@@ -24,10 +24,14 @@ insert image here
        *	Shows the continuum of passing time, shows how the themes are part of the same “track” (body of text), shows how they emerged at different points and in multiple places
     *	I wanted to create connection between the past and the future. Something I really felt during my analysis was how these newsletters were creating a sense of welcoming/community for the people receiving them 
         *	When I was first transitioning, the space I went to was YouTube to find a community. A really big staple when I was using this space was the “voice on T comparison” videos. I pulled a few videos that were personally meaningful to me (had watched in the past), & some that just worked, and layered some of those voice moments on audacity
+        * Videos I chose:
+          * [Alex Bertie - TRANSGENDER: 2 YEARS ON TESTOSTERONE](https://www.youtube.com/watch?v=tb3b-mKxZm8)
+          * [Chella Man - ONE YEAR ON TESTOSTERONE: Voice Updates]
+          * [CallmeLaddie - TWO YEARS ON TESTOSTERONE!! FtM Transition (Voice Comparison)](https://www.youtube.com/watch?v=Wu9D-K24Iaw)
         *	I wanted to layer the start & stop dates of those journeys
 *	Note: I could only have done this because I was working on such a small scale – I feel like I have been working to capture a “moment” in history
 
 # Questions I asked
 * Why is wget taking so long?
 
-Insert image here
+![wget q](https://github.com/sidxi/week-six/blob/master/Screenshots/Week6%20wget%20LONG.PNG)
